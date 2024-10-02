@@ -1,0 +1,14 @@
+C:\Dev-Engineer\Estudos\bubbleSort\bubbleSort\bubbleSort\obj\Debug\net8.0\bubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev-Engineer\Estudos\bubbleSort\bubbleSort\bubbleSort\obj\Debug\net8.0\bubbleSort.AssemblyInfoInputs.cache
+C:\Dev-Engineer\Estudos\bubbleSort\bubbleSort\bubbleSort\obj\Debug\net8.0\bubbleSort.AssemblyInfo.cs
+C:\Dev-Engineer\Estudos\bubbleSort\bubbleSort\bubbleSort\obj\Debug\net8.0\bubbleSort.csproj.CoreCompileInputs.cache
+C:\Dev-Engineer\Estudos\bubbleSort\bubbleSort\bubbleSort\bin\Debug\net8.0\bubbleSort.exe
+C:\Dev-Engineer\Estudos\bubbleSort\bubbleSort\bubbleSort\bin\Debug\net8.0\bubbleSort.deps.json
+C:\Dev-Engineer\Estudos\bubbleSort\bubbleSort\bubbleSort\bin\Debug\net8.0\bubbleSort.runtimeconfig.json
+C:\Dev-Engineer\Estudos\bubbleSort\bubbleSort\bubbleSort\bin\Debug\net8.0\bubbleSort.dll
+C:\Dev-Engineer\Estudos\bubbleSort\bubbleSort\bubbleSort\bin\Debug\net8.0\bubbleSort.pdb
+C:\Dev-Engineer\Estudos\bubbleSort\bubbleSort\bubbleSort\obj\Debug\net8.0\bubbleSort.dll
+C:\Dev-Engineer\Estudos\bubbleSort\bubbleSort\bubbleSort\obj\Debug\net8.0\refint\bubbleSort.dll
+C:\Dev-Engineer\Estudos\bubbleSort\bubbleSort\bubbleSort\obj\Debug\net8.0\bubbleSort.pdb
+C:\Dev-Engineer\Estudos\bubbleSort\bubbleSort\bubbleSort\obj\Debug\net8.0\bubbleSort.genruntimeconfig.cache
+C:\Dev-Engineer\Estudos\bubbleSort\bubbleSort\bubbleSort\obj\Debug\net8.0\ref\bubbleSort.dll
